@@ -11,7 +11,8 @@ I am Yusuf, a Computer Science student at London South Bank University. My inter
 - 💬 Ask me about networking
 - 📫 Contact me: yusufmuysinkhanov@gmail.com
 
-**Languages and Tools:**
+### Languages and Tools:
+
 [<img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg">]
 [<img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/>]
 [<img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg">]
