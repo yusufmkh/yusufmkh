@@ -5,10 +5,10 @@
 
 I am Yusuf, a Computer Science student at London South Bank University. My interest areas are full-stack, ML, networking, and security.
 
-- 🔭 I’m currently working on adding new features to [mern-inventory](https://github.com/yusufmkh/mern-inventory)
-- 🌱 I’m currently learning DevOps
-- 🤝 I’m looking for interesting projects to collaborate on
-- 💬 Ask me about networking
+- 🔭 I’m currently revising Data Structures and Algorithms
+- 🌱 I’m also learning DevOps
+- 🤝 Send me interesting projects to collaborate on
+- 💬 Ask me about full-stack dev, ML, and networking
 - 📫 Contact me: yusufmuysinkhanov@gmail.com
 
 ### Languages and Tools:
