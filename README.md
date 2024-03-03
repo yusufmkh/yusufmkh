@@ -5,7 +5,7 @@
 
 I am Yusuf, a Computer Science student at London South Bank University. My interest areas are full-stack, ML, networking, and security.
 
-- 🔭 I’m currently revising Data Structures and Algorithms
+- 🔭 I’m currently working on my final-year project (job and candidate recommender web app)
 - 🌱 I’m also learning DevOps
 - 🤝 Send me interesting projects to collaborate on
 - 💬 Ask me about full-stack dev, ML, and networking
