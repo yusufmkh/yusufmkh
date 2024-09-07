@@ -5,7 +5,7 @@
 
 I am Yusuf, a Computer Science Graduate from London South Bank University. My interest areas are full-stack, ML, networking, and security.
 
-- 🔭 I’m currently working on a Job and Candidate Recommender Web App.
+- 🔭 I’m currently working on a Job and Candidate Recommender Web App
 - 🌱 I’m also learning DevOps
 - 🤝 Send me interesting projects to collaborate on
 - 💬 Ask me about full-stack dev, ML, and networking
