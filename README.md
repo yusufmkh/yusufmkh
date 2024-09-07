@@ -1,11 +1,11 @@
-# Hi there 👋
+# Hi there
 <!-- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yusufmkh) -->
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yusufmv/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yusufmuysinkhanov@gmail.com)
 
-I am Yusuf, a Computer Science student at London South Bank University. My interest areas are full-stack, ML, networking, and security.
+I am Yusuf, a Computer Science Graduate from London South Bank University. My interest areas are full-stack, ML, networking, and security.
 
-- 🔭 I’m currently working on my final-year project (job and candidate recommender web app)
+- 🔭 I’m currently working on a Job and Candidate Recommender Web App.
 - 🌱 I’m also learning DevOps
 - 🤝 Send me interesting projects to collaborate on
 - 💬 Ask me about full-stack dev, ML, and networking
